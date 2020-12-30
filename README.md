@@ -3,7 +3,7 @@
   <p>
     A web based application that shows you some variations of the name you enter.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Website »</strong></a>
+    <a href="https://name-variatons-app.vercel.app/"><strong>Website »</strong></a>
   </p>
 </div>
 
@@ -47,13 +47,13 @@ Follow the following steps to get development environment running.
 
 1. Clone 'name-variations-app' repository from GitHub
 
-   ```bash
+   ```sh
    git clone https://github.com/marekzelinka/name-variations-app.git
    ```
 
 1. Install node modules
 
-   ```bash
+   ```sh
    cd name-variations-app
    npm install
    ```
@@ -61,8 +61,12 @@ Follow the following steps to get development environment running.
 ### Usage
 
 - Run development server
-  ```javascript
+  ```sh
   npm run dev
+  ```
+- Build
+  ```sh
+  npm build
   ```
 
 ---
