@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Name Variations</h3>
   <p>
-    A web based application that shows you some variations of the name you enter.
+    A web-based application that shows you some variations of the name you enter.
     <br />
     <a href="https://name-variatons-app.vercel.app/"><strong>Website »</strong></a>
   </p>
